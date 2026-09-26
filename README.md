@@ -5,11 +5,11 @@ This project is a simple rule-based chatbot developed in Python. It responds to 
 
 ## ✨ Features
 
-- 👋 Greets the user
-- 💬 Responds to common questions
-- 🤔 Handles unknown inputs gracefully
-- 🚪 Exits when the user types **"bye"**
-- 🐍 Built using core Python concepts
+-  Greets the user
+-  Responds to common questions
+-  Handles unknown inputs gracefully
+-  Exits when the user types **"bye"**
+-  Built using core Python concepts
 
 ## 🛠️ Technologies Used
 - Python 3
